@@ -1,0 +1,15 @@
+Codebook
+
+variables
+ TrainSetX : contains training set X_train 
+ TrainSety : contains training set Y_train
+ TrainSub : contains training set Subject_train
+ TestSetX : contains testing set X_test
+ TestSetX : contains testing set y_test
+ TestSub : contains testing set Subject_test
+ activity : contains the activitys file
+ features : contains the features file
+ feauresWanted : conatains only the mean and std functions
+ X_set : merged dataset of the X train and test files
+ Y_set :  merged dataset of the y train and test files
+ Sub_set :  mergd dataset of the subject train and test 
